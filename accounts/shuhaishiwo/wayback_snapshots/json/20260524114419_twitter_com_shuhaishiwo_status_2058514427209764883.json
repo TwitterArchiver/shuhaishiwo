@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1841416962846695424",
+    "conversation_id": "2058514427209764883",
+    "created_at": "2026-05-24T11:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T12:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058514427209764883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1629720140383391744",
+          "start": 3,
+          "username": "KenWong369"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058514427209764883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058423380756549965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KenWong369: 羡慕那些本科之前就出去，英语基本达到母语水平的人🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "2058514427209764883",
+        "created_at": "2026-05-24T11:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058514427209764883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1629720140383391744",
+              "start": 3,
+              "username": "KenWong369"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058514427209764883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058423380756549965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KenWong369: 羡慕那些本科之前就出去，英语基本达到母语水平的人🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629720140383391744",
+        "conversation_id": "2058423380756549965",
+        "created_at": "2026-05-24T05:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T06:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058423380756549965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058423380756549965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6066,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "羡慕那些本科之前就出去，英语基本达到母语水平的人🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "じゅかい｜树海碎碎念｜16岁｜雄性｜喜欢术力口和文具｜科技食品爱好者｜坐标包头｜bilibili偶尔直播↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/tDLssGs",
+                "end": 23,
+                "expanded_url": "https://b23.tv/tDLssGs",
+                "start": 0,
+                "url": "https://t.co/5JLMl2shrJ"
+              }
+            ]
+          }
+        },
+        "id": "1841416962846695424",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "1959963772505706722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056711248247672832/EDL0G3zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 173,
+          "like_count": 3853,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 823
+        },
+        "url": "https://t.co/5JLMl2shrJ",
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-26T05:49:11.000Z",
+        "description": "🤖06年AI本科\n📌持续探索：AI｜Web3｜投资 \n📝记录从0到财富自由之路\n💪 从前是个梦想家，现在当个实干家\n 📢All for fun",
+        "id": "1629720140383391744",
+        "location": "Hong Kong",
+        "name": "Ken Wong",
+        "pinned_tweet_id": "2057821676533071912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629720863439466497/GHA72g1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 439,
+          "like_count": 2341,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 756
+        },
+        "username": "KenWong369",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1841416962846695424",
+    "conversation_id": "2057587771565580712",
+    "created_at": "2026-05-21T22:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T23:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057587771565580712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "770222871083819009",
+          "start": 3,
+          "username": "sasuke_maschine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057587771565580712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1022
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057388716650611108",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @sasuke_maschine: 誕生日   !"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "2057587771565580712",
+        "created_at": "2026-05-21T22:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T23:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057587771565580712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "770222871083819009",
+              "start": 3,
+              "username": "sasuke_maschine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057587771565580712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1022
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057388716650611108",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @sasuke_maschine: 誕生日   !"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "770222871083819009",
+        "conversation_id": "2057388716650611108",
+        "created_at": "2026-05-21T09:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057388716650611108"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057388716650611108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 411724,
+          "like_count": 16544,
+          "quote_count": 134,
+          "reply_count": 262,
+          "retweet_count": 1022
+        },
+        "reply_settings": "following",
+        "text": "誕生日   !"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "じゅかい｜16岁｜雄性｜喜欢术力口和文具｜科技食品爱好者｜bilibili偶尔直播↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/tDLssGs",
+                "end": 23,
+                "expanded_url": "https://b23.tv/tDLssGs",
+                "start": 0,
+                "url": "https://t.co/5JLMl2shrJ"
+              }
+            ]
+          }
+        },
+        "id": "1841416962846695424",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "1959963772505706722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056711248247672832/EDL0G3zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 162,
+          "like_count": 3688,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 779
+        },
+        "url": "https://t.co/5JLMl2shrJ",
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-29T11:33:37.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sasukeharaguchi",
+                "end": 23,
+                "expanded_url": "https://lit.link/sasukeharaguchi",
+                "start": 0,
+                "url": "https://t.co/3iUICqD7Yq"
+              }
+            ]
+          }
+        },
+        "id": "770222871083819009",
+        "name": "原口沙輔",
+        "pinned_tweet_id": "1969009176752832974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655045120398614528/p7GyXCA5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153520,
+          "following_count": 5007,
+          "like_count": 48259,
+          "listed_count": 425,
+          "media_count": 1071,
+          "tweet_count": 12966
+        },
+        "url": "https://t.co/3iUICqD7Yq",
+        "username": "sasuke_maschine",
+        "verified": false
+      }
+    ]
+  }
+}

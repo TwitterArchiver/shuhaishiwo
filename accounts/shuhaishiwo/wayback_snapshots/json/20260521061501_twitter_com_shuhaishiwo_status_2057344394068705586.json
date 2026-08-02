@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1841416962846695424",
+    "conversation_id": "2057344394068705586",
+    "created_at": "2026-05-21T06:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T07:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057344394068705586"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "树海’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1nxnR…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1nxnRYPRXpBxO",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2057344395847032832/9e1vnihI?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2057344395847032832/9e1vnihI?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 闲聊",
+          "unwound_url": "https://twitter.com/i/spaces/1nxnRYPRXpBxO/peek",
+          "url": "https://t.co/ne5bfvxFhv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057344394068705586",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/ne5bfvxFhv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "2057344394068705586",
+        "created_at": "2026-05-21T06:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057344394068705586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "树海’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1nxnR…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1nxnRYPRXpBxO",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2057344395847032832/9e1vnihI?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2057344395847032832/9e1vnihI?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 闲聊",
+              "unwound_url": "https://twitter.com/i/spaces/1nxnRYPRXpBxO/peek",
+              "url": "https://t.co/ne5bfvxFhv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057344394068705586",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ne5bfvxFhv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "じゅかい｜16岁｜雄性｜喜欢术力口和文具｜科技食品爱好者｜bilibil ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/tDLssGs",
+                "end": 23,
+                "expanded_url": "https://b23.tv/tDLssGs",
+                "start": 0,
+                "url": "https://t.co/5JLMl2shrJ"
+              }
+            ]
+          }
+        },
+        "id": "1841416962846695424",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "1959963772505706722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056711248247672832/EDL0G3zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 161,
+          "like_count": 3608,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 764
+        },
+        "url": "https://t.co/5JLMl2shrJ",
+        "username": "shuhaishiwo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1841416962846695424",
+    "conversation_id": "1994977498489405692",
+    "created_at": "2025-12-01T05:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T06:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995362447767769321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1712717903139635200",
+          "start": 0,
+          "username": "shuhao225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995362447767769321",
+    "in_reply_to_user_id": "1712717903139635200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994977498489405692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuhao225 羡慕..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "1994977498489405692",
+        "created_at": "2025-12-01T05:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T06:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995362447767769321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1712717903139635200",
+              "start": 0,
+              "username": "shuhao225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995362447767769321",
+        "in_reply_to_user_id": "1712717903139635200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994977498489405692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuhao225 羡慕..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712717903139635200",
+        "conversation_id": "1994977498489405692",
+        "created_at": "2025-11-30T03:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T04:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994977498489405692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994977498489405692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 15781,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "和胖胖的室友肚子贴着肚子睡觉真的好舒服，很暖和还软软的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "窝的遗产",
+        "id": "1841416962846695424",
+        "name": "树海",
+        "pinned_tweet_id": "1959963772505706722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995090681845735425/SF7cXqmQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 159,
+          "like_count": 3368,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 718
+        },
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-13T06:32:30.000Z",
+        "description": "你好，这里阿亮，我是一只斑点犬神，性格很单纯开朗，正在努力读书，欢迎大家多多关照こんにちは、ここは亮です。私は斑点犬神です。性格は単純で明るく、一生懸命勉強しています。どうぞよろしくお願いします。",
+        "id": "1712717903139635200",
+        "location": "马坡镇",
+        "name": "那神海盗狗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828351172098330624/772vnYYo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1967,
+          "following_count": 1320,
+          "like_count": 308,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 109
+        },
+        "username": "shuhao225",
+        "verified": false
+      }
+    ]
+  }
+}

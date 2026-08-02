@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1841416962846695424",
+    "conversation_id": "1892923510663905615",
+    "created_at": "2025-02-22T01:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T02:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893112347520065898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1650521797299953665",
+          "start": 0,
+          "username": "yulingko_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893112347520065898",
+    "in_reply_to_user_id": "1650521797299953665",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892923510663905615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yulingko_ 🤭🫢🙄💅🤣👉🤩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "1892923510663905615",
+        "created_at": "2025-02-22T01:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T02:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893112347520065898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1650521797299953665",
+              "start": 0,
+              "username": "yulingko_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893112347520065898",
+        "in_reply_to_user_id": "1650521797299953665",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892923510663905615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yulingko_ 🤭🫢🙄💅🤣👉🤩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650521797299953665",
+        "conversation_id": "1892923510663905615",
+        "created_at": "2025-02-21T13:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T14:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892923510663905615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892923510663905615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想变得有攻击性一点、回到初中的刻薄水平（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "14岁 男 🏳️‍🌈 furry控 文具控 术术人",
+        "id": "1841416962846695424",
+        "name": "树海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891266106133983232/c7JhV35F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 93,
+          "like_count": 1885,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 427
+        },
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T15:27:27.000Z",
+        "description": "💛🤍💜🖤 | 史官 | Linux运维 | maimai | 车万众 | 永远16岁 | 想要变得坚强 | 永远挚爱的可爱主人 @yunyunyunnya | 家有可爱妹妹 @KiwiKazamaCat @error_aira8964 | 姐姐们 @chika_ichii @Z1wEnnn @bin_x_13",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "yunyunyunnya"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "KiwiKazamaCat"
+              },
+              {
+                "end": 117,
+                "start": 102,
+                "username": "error_aira8964"
+              },
+              {
+                "end": 136,
+                "start": 124,
+                "username": "chika_ichii"
+              },
+              {
+                "end": 145,
+                "start": 137,
+                "username": "Z1wEnnn"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "bin_x_13"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yulingko.moe",
+                "end": 23,
+                "expanded_url": "http://yulingko.moe",
+                "start": 0,
+                "url": "https://t.co/y33zzlUO9W"
+              }
+            ]
+          }
+        },
+        "id": "1650521797299953665",
+        "name": "与岭",
+        "pinned_tweet_id": "1864269172060115353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863193404508655616/gSgEqVX-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 716,
+          "like_count": 48586,
+          "listed_count": 5,
+          "media_count": 375,
+          "tweet_count": 7635
+        },
+        "url": "https://t.co/y33zzlUO9W",
+        "username": "yulingko_",
+        "verified": false
+      }
+    ]
+  }
+}

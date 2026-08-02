@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1841416962846695424",
+    "conversation_id": "1892524133042311606",
+    "created_at": "2025-02-20T10:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T11:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892524133042311606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1650521797299953665",
+          "start": 3,
+          "username": "yulingko_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892524133042311606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892515561042817279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yulingko_: 跟不上那些18、19岁就开始搞学术搞舆论搞小团体的人💦不过一想想自己跟这些人压根不是一个阶级的也就释然了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "1892524133042311606",
+        "created_at": "2025-02-20T10:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T11:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892524133042311606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1650521797299953665",
+              "start": 3,
+              "username": "yulingko_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892524133042311606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892515561042817279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yulingko_: 跟不上那些18、19岁就开始搞学术搞舆论搞小团体的人💦不过一想想自己跟这些人压根不是一个阶级的也就释然了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650521797299953665",
+        "conversation_id": "1892515561042817279",
+        "created_at": "2025-02-20T10:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T11:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892515561042817279"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892515561042817279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "跟不上那些18、19岁就开始搞学术搞舆论搞小团体的人💦不过一想想自己跟这些人压根不是一个阶级的也就释然了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "发癫用的 请加QQ",
+        "id": "1841416962846695424",
+        "name": "树海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891266106133983232/c7JhV35F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 91,
+          "like_count": 1782,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 407
+        },
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T15:27:27.000Z",
+        "description": "💛🤍💜🖤 | Linux运维 | maimai | 车万众 | 永远16岁 | 想要变得坚强 | 永远挚爱的可爱主人 @yunyunyunnya | 家有可爱妹妹 @KiwiKazamaCat @error_aira8964 | 姐姐们 @chika_ichii @Z1wEnnn @bin_x_13",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "yunyunyunnya"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "KiwiKazamaCat"
+              },
+              {
+                "end": 112,
+                "start": 97,
+                "username": "error_aira8964"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "chika_ichii"
+              },
+              {
+                "end": 140,
+                "start": 132,
+                "username": "Z1wEnnn"
+              },
+              {
+                "end": 150,
+                "start": 141,
+                "username": "bin_x_13"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yulingko.moe",
+                "end": 23,
+                "expanded_url": "http://yulingko.moe",
+                "start": 0,
+                "url": "https://t.co/y33zzlVlZu"
+              }
+            ]
+          }
+        },
+        "id": "1650521797299953665",
+        "name": "与岭",
+        "pinned_tweet_id": "1864269172060115353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863193404508655616/gSgEqVX-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 717,
+          "like_count": 48458,
+          "listed_count": 5,
+          "media_count": 372,
+          "tweet_count": 7584
+        },
+        "url": "https://t.co/y33zzlVlZu",
+        "username": "yulingko_",
+        "verified": false
+      }
+    ]
+  }
+}

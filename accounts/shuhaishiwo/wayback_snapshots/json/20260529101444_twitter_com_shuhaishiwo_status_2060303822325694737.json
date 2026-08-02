@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060303813257601024"
+      ]
+    },
+    "author_id": "1841416962846695424",
+    "conversation_id": "2060303822325694737",
+    "created_at": "2026-05-29T10:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060303822325694737"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "树海今天听什么"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6BSzfptYWh",
+          "end": 32,
+          "expanded_url": "https://x.com/shuhaishiwo/status/2060303822325694737/photo/1",
+          "media_key": "3_2060303813257601024",
+          "start": 9,
+          "url": "https://t.co/6BSzfptYWh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060303822325694737",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#树海今天听什么 https://t.co/6BSzfptYWh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1956,
+        "media_key": "3_2060303813257601024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJerZvaaIAAxjBB.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060303813257601024"
+          ]
+        },
+        "author_id": "1841416962846695424",
+        "conversation_id": "2060303822325694737",
+        "created_at": "2026-05-29T10:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060303822325694737"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "树海今天听什么"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6BSzfptYWh",
+              "end": 32,
+              "expanded_url": "https://x.com/shuhaishiwo/status/2060303822325694737/photo/1",
+              "media_key": "3_2060303813257601024",
+              "start": 9,
+              "url": "https://t.co/6BSzfptYWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060303822325694737",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#树海今天听什么 https://t.co/6BSzfptYWh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "じゅかい｜树海碎碎念｜劣等感を殺しに来て｜16岁｜雄性｜喜欢术力口和文具｜科技食品爱好者｜坐标包头｜bilibili偶尔直播↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/tDLssGs",
+                "end": 23,
+                "expanded_url": "https://b23.tv/tDLssGs",
+                "start": 0,
+                "url": "https://t.co/5JLMl2shrJ"
+              }
+            ]
+          }
+        },
+        "id": "1841416962846695424",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "1959963772505706722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060188124555452416/C5W0WA15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 181,
+          "like_count": 4107,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 883
+        },
+        "url": "https://t.co/5JLMl2shrJ",
+        "username": "shuhaishiwo",
+        "verified": false
+      }
+    ]
+  }
+}

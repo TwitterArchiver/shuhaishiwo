@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1841416962846695424",
+    "conversation_id": "2057256532635693432",
+    "created_at": "2026-05-21T23:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T00:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057605464226242634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1854091917338021888",
+          "start": 0,
+          "username": "ZLINK243424"
+        },
+        {
+          "end": 20,
+          "id": "1664742004423794688",
+          "start": 13,
+          "username": "rwayne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057605464226242634",
+    "in_reply_to_user_id": "1854091917338021888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057475887629754843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZLINK243424 @rwayne 500块每年真的太贵了\n而且只要收费大家就会换平台，即使不贵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "2057256532635693432",
+        "created_at": "2026-05-21T23:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T00:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057605464226242634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1854091917338021888",
+              "start": 0,
+              "username": "ZLINK243424"
+            },
+            {
+              "end": 20,
+              "id": "1664742004423794688",
+              "start": 13,
+              "username": "rwayne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057605464226242634",
+        "in_reply_to_user_id": "1854091917338021888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057475887629754843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZLINK243424 @rwayne 500块每年真的太贵了\n而且只要收费大家就会换平台，即使不贵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854091917338021888",
+        "conversation_id": "2057256532635693432",
+        "created_at": "2026-05-21T14:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057475887629754843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1664742004423794688",
+              "start": 0,
+              "username": "rwayne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057475887629754843",
+        "in_reply_to_user_id": "1664742004423794688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057256532635693432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rwayne 真收五百一堆人会换平台的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "じゅかい｜树海碎碎念｜16岁｜雄性｜喜欢术力口和文具｜科技食品爱好者｜bilibili偶尔直播↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/tDLssGs",
+                "end": 23,
+                "expanded_url": "https://b23.tv/tDLssGs",
+                "start": 0,
+                "url": "https://t.co/5JLMl2shrJ"
+              }
+            ]
+          }
+        },
+        "id": "1841416962846695424",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "1959963772505706722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056711248247672832/EDL0G3zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 162,
+          "like_count": 3712,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 787
+        },
+        "url": "https://t.co/5JLMl2shrJ",
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T09:22:40.000Z",
+        "description": "Battlefield严重中毒/ボカロ重度依赖/自殺未遂/废宅/角落里的垃圾人/讨厌社交/08男/LGBTQIA＋友好/成分复杂/可以叫我Zero/让您不爽真是非常抱歉\n\n私たちは光芒と深宇宙のなかで神を見た，\n我们在泛光和深空中看见了神，\n私たちは公式と真理のなかで 神を殺した，\n我们在公式和真理中杀死了神。",
+        "id": "1854091917338021888",
+        "location": "南极洲",
+        "name": "可悲的Zeroくん:⁠-⁠P",
+        "pinned_tweet_id": "2029541942825308447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959096909538435072/wGTn5XPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 352,
+          "like_count": 29458,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 5453
+        },
+        "username": "ZLINK243424",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T21:13:29.000Z",
+        "description": "🧑‍⚕️ 医学&经济学全奖PhD 🇦🇺\n🚀3 个月 X 涨粉 4w｜累计曝光 1.5 亿\n💼《中国企业AI转型白皮书》作者｜企业AI转型咨询｜AI医疗创业者\n⭐ 订阅都是本人精华｜优先回复订阅者评论和私信👈",
+        "id": "1664742004423794688",
+        "location": "Australia",
+        "name": "Roland.W",
+        "pinned_tweet_id": "2055192360968171954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49140,
+          "following_count": 805,
+          "like_count": 32293,
+          "listed_count": 253,
+          "media_count": 2341,
+          "tweet_count": 14235
+        },
+        "username": "rwayne",
+        "verified": true
+      }
+    ]
+  }
+}

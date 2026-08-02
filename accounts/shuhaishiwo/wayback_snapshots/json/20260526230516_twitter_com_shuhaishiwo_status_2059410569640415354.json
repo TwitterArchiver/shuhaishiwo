@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059180488041050112",
+        "3_2059180488091389952"
+      ],
+      "media_source_tweet_id": [
+        "2059180499181109738",
+        "2059180499181109738"
+      ]
+    },
+    "author_id": "1841416962846695424",
+    "conversation_id": "2059410569640415354",
+    "created_at": "2026-05-26T23:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T00:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059410569640415354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1776191722059608064",
+          "start": 3,
+          "username": "shuiyuan_qs"
+        },
+        {
+          "end": 39,
+          "id": "1896112122528145408",
+          "start": 31,
+          "username": "or_huan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4e13q0rCWd",
+          "end": 63,
+          "expanded_url": "https://x.com/shuiyuan_qs/status/2059180499181109738/photo/1",
+          "media_key": "3_2059180488041050112",
+          "start": 40,
+          "url": "https://t.co/4e13q0rCWd"
+        },
+        {
+          "display_url": "pic.x.com/4e13q0rCWd",
+          "end": 63,
+          "expanded_url": "https://x.com/shuiyuan_qs/status/2059180499181109738/photo/1",
+          "media_key": "3_2059180488091389952",
+          "start": 40,
+          "url": "https://t.co/4e13q0rCWd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059410569640415354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059180499181109738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuiyuan_qs: 脱光光？ \n脱光光！\n\n🎨：@or_huan https://t.co/4e13q0rCWd"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059410569640415354].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059410569640415354",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059410569640415354"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059180488041050112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOtvm4aMAAe62P.jpg",
+        "width": 1448
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059180488091389952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOtvnEaUAAM1JO.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059180488041050112",
+            "3_2059180488091389952"
+          ]
+        },
+        "author_id": "1776191722059608064",
+        "conversation_id": "2059180499181109738",
+        "created_at": "2026-05-26T07:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059180499181109738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1896112122528145408",
+              "start": 14,
+              "username": "or_huan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4e13q0rCWd",
+              "end": 46,
+              "expanded_url": "https://x.com/shuiyuan_qs/status/2059180499181109738/photo/1",
+              "media_key": "3_2059180488041050112",
+              "start": 23,
+              "url": "https://t.co/4e13q0rCWd"
+            },
+            {
+              "display_url": "pic.x.com/4e13q0rCWd",
+              "end": 46,
+              "expanded_url": "https://x.com/shuiyuan_qs/status/2059180499181109738/photo/1",
+              "media_key": "3_2059180488091389952",
+              "start": 23,
+              "url": "https://t.co/4e13q0rCWd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059180499181109738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 5068,
+          "like_count": 423,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "脱光光？ \n脱光光！\n\n🎨：@or_huan https://t.co/4e13q0rCWd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "じゅかい｜树海碎碎念｜劣等感を殺しに来て｜16岁｜雄性｜喜欢术力口和文具｜科技食品爱好者｜坐标包头｜bilibili偶尔直播↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/tDLssGs",
+                "end": 23,
+                "expanded_url": "https://b23.tv/tDLssGs",
+                "start": 0,
+                "url": "https://t.co/5JLMl2shrJ"
+              }
+            ]
+          }
+        },
+        "id": "1841416962846695424",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "1959963772505706722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056711248247672832/EDL0G3zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 176,
+          "like_count": 3975,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 854
+        },
+        "url": "https://t.co/5JLMl2shrJ",
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T10:14:47.000Z",
+        "description": "@shuiyuan_15 已被冻结                                               \n\n一些不太好康的东西：@shuiyuan_12                          \n\nQQ:2663096071\n\n/*  bilibili UID:33555293  */",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "shuiyuan_15"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "shuiyuan_12"
+              }
+            ]
+          }
+        },
+        "id": "1776191722059608064",
+        "location": "shanghai",
+        "name": "清纯水源",
+        "pinned_tweet_id": "2051150808402780637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847494656449531904/vgROBAFu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9550,
+          "following_count": 368,
+          "like_count": 353,
+          "listed_count": 8,
+          "media_count": 98,
+          "tweet_count": 250
+        },
+        "username": "shuiyuan_qs",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T08:16:00.000Z",
+        "description": "都上推了就不装正人君子了，诸位，我喜欢画兽太⌓‿⌓",
+        "id": "1896112122528145408",
+        "name": "or幻想卿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897310160059858944/0AOsKkuX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7450,
+          "following_count": 367,
+          "like_count": 500,
+          "listed_count": 22,
+          "media_count": 75,
+          "tweet_count": 173
+        },
+        "username": "or_huan",
+        "verified": false
+      }
+    ]
+  }
+}

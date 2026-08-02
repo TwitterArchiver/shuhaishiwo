@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1841416962846695424",
+    "conversation_id": "1892449598142370163",
+    "created_at": "2025-02-20T11:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T12:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892540688308269488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1838160829545320448",
+          "start": 0,
+          "username": "chaixichun0075"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892540688308269488",
+    "in_reply_to_user_id": "1838160829545320448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892538900083573018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chaixichun0075 我知道，但还是很可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "1892449598142370163",
+        "created_at": "2025-02-20T11:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T12:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892540688308269488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1838160829545320448",
+              "start": 0,
+              "username": "chaixichun0075"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892540688308269488",
+        "in_reply_to_user_id": "1838160829545320448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892538900083573018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chaixichun0075 我知道，但还是很可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838160829545320448",
+        "conversation_id": "1892449598142370163",
+        "created_at": "2025-02-20T11:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T12:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892538900083573018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841416962846695424",
+              "start": 0,
+              "username": "shuhaishiwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892538900083573018",
+        "in_reply_to_user_id": "1841416962846695424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892449598142370163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuhaishiwo 其实，这种，都是直接认图标了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "14岁 男 🏳️‍🌈 furry控 文具控 术术人",
+        "id": "1841416962846695424",
+        "name": "树海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891266106133983232/c7JhV35F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 92,
+          "like_count": 1805,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 414
+        },
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-23T10:18:01.000Z",
+        "description": "你好！这里是阿柴启示录@（里自寻\n大家有对我不满的地方都可以提出来，尽情发言，一会就给你们拉黑了。竟敢对皇帝不满，我来上网就是来当皇帝的，顺我者昌逆我者亡。能面刺寡人之过者，诛九族。上网谏寡人者，处极刑。谤讥于市朝闻寡人之耳者，赐自尽!",
+        "id": "1838160829545320448",
+        "name": "柴溪春",
+        "pinned_tweet_id": "1873267100481143155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891007002912137216/-hZpWosh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4133,
+          "following_count": 927,
+          "like_count": 3988,
+          "listed_count": 3,
+          "media_count": 676,
+          "tweet_count": 12344
+        },
+        "username": "chaixichun0075",
+        "verified": false
+      }
+    ]
+  }
+}

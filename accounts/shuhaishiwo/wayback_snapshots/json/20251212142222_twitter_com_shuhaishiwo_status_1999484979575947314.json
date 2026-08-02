@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1841416962846695424",
+    "conversation_id": "1999400948620492926",
+    "created_at": "2025-12-12T14:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T15:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999484979575947314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1840833815381753856",
+          "start": 0,
+          "username": "teaanddot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999484979575947314",
+    "in_reply_to_user_id": "1840833815381753856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999400948620492926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teaanddot 油光锃亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999400936574451714",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G79MjvwagAITEBG.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "1999400948620492926",
+        "created_at": "2025-12-12T14:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T15:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999484979575947314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1840833815381753856",
+              "start": 0,
+              "username": "teaanddot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999484979575947314",
+        "in_reply_to_user_id": "1840833815381753856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999400948620492926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teaanddot 油光锃亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999400936574451714"
+          ]
+        },
+        "author_id": "1840833815381753856",
+        "conversation_id": "1999400948620492926",
+        "created_at": "2025-12-12T08:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999400948620492926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xyG6Rqs3sZ",
+              "end": 29,
+              "expanded_url": "https://x.com/teaanddot/status/1999400948620492926/photo/1",
+              "media_key": "3_1999400936574451714",
+              "start": 6,
+              "url": "https://t.co/xyG6Rqs3sZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999400948620492926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "公司的键盘 https://t.co/xyG6Rqs3sZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "窝的遗产",
+        "id": "1841416962846695424",
+        "name": "树海",
+        "pinned_tweet_id": "1959963772505706722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995683240624144384/Wu0Iyo1O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 162,
+          "like_count": 3404,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 722
+        },
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T19:19:37.000Z",
+        "description": "",
+        "id": "1840833815381753856",
+        "location": "かえる",
+        "name": "🕊️",
+        "pinned_tweet_id": "1979464745163067435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975503584474337280/4fZB6D5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 26,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 1123,
+          "tweet_count": 2459
+        },
+        "username": "teaanddot",
+        "verified": false
+      }
+    ]
+  }
+}

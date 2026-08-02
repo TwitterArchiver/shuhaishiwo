@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1841416962846695424",
+    "conversation_id": "2057428340202721550",
+    "created_at": "2026-05-21T13:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057460191730549013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757630242288541696",
+          "start": 0,
+          "username": "Zhixiang_312145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057460191730549013",
+    "in_reply_to_user_id": "1757630242288541696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057450017485660424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhixiang_312145 呃…是的，没什么清晰的定位，也不知道谈什么，游戏也玩的不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "2057428340202721550",
+        "created_at": "2026-05-21T13:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057460191730549013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757630242288541696",
+              "start": 0,
+              "username": "Zhixiang_312145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057460191730549013",
+        "in_reply_to_user_id": "1757630242288541696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057450017485660424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhixiang_312145 呃…是的，没什么清晰的定位，也不知道谈什么，游戏也玩的不好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757630242288541696",
+        "conversation_id": "2057428340202721550",
+        "created_at": "2026-05-21T13:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057450017485660424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841416962846695424",
+              "start": 0,
+              "username": "shuhaishiwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057450017485660424",
+        "in_reply_to_user_id": "1841416962846695424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057428340202721550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuhaishiwo 这个直播间的定位是什么？杂谈？还是游戏？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "じゅかい｜16岁｜雄性｜喜欢术力口和文具｜科技食品爱好者｜bilibil ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/tDLssGs",
+                "end": 23,
+                "expanded_url": "https://b23.tv/tDLssGs",
+                "start": 0,
+                "url": "https://t.co/5JLMl2shrJ"
+              }
+            ]
+          }
+        },
+        "id": "1841416962846695424",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "1959963772505706722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056711248247672832/EDL0G3zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 162,
+          "like_count": 3640,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 772
+        },
+        "url": "https://t.co/5JLMl2shrJ",
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:58:13.000Z",
+        "description": "Chinese 🇨🇳 / Male / Student / 17 years old / See you in every world, if possible. / Seldom NSFW / EN or ZH-CN / @Phoeversum312",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 112,
+                "username": "Phoeversum312"
+              }
+            ]
+          }
+        },
+        "id": "1757630242288541696",
+        "location": "huangzhixiang2915@outlook.com",
+        "name": "Zhixiang Huang",
+        "pinned_tweet_id": "2057324459896570079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757630635047280640/bkSrQETY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 2005,
+          "like_count": 118569,
+          "listed_count": 2,
+          "media_count": 1910,
+          "tweet_count": 18063
+        },
+        "username": "Zhixiang_312145",
+        "verified": false
+      }
+    ]
+  }
+}

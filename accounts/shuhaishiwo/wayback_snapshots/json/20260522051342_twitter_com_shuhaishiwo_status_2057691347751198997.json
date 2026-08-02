@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1841416962846695424",
+    "conversation_id": "2057670271390380178",
+    "created_at": "2026-05-22T05:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057691347751198997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1373080083703894019",
+          "start": 0,
+          "username": "JiaHe888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057691347751198997",
+    "in_reply_to_user_id": "1373080083703894019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057670271390380178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiaHe888 字节已经是国内比较思进取的公司了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "2057670271390380178",
+        "created_at": "2026-05-22T05:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057691347751198997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1373080083703894019",
+              "start": 0,
+              "username": "JiaHe888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057691347751198997",
+        "in_reply_to_user_id": "1373080083703894019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057670271390380178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiaHe888 字节已经是国内比较思进取的公司了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1373080083703894019",
+        "conversation_id": "2057670271390380178",
+        "created_at": "2026-05-22T03:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057670271390380178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsuanandchen/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/hsuanandchen/status/2057660844742439184",
+              "start": 10,
+              "url": "https://t.co/V8DtBVvTCr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057670271390380178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 406,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057660844742439184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "先进团队，先用飞书 https://t.co/V8DtBVvTCr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "じゅかい｜树海碎碎念｜16岁｜雄性｜喜欢术力口和文具｜科技食品爱好者｜bilibili偶尔直播↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/tDLssGs",
+                "end": 23,
+                "expanded_url": "https://b23.tv/tDLssGs",
+                "start": 0,
+                "url": "https://t.co/5JLMl2shrJ"
+              }
+            ]
+          }
+        },
+        "id": "1841416962846695424",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "1959963772505706722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056711248247672832/EDL0G3zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 167,
+          "like_count": 3729,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 797
+        },
+        "url": "https://t.co/5JLMl2shrJ",
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-20T01:13:06.000Z",
+        "description": "没成为优秀的人，抱歉...",
+        "id": "1373080083703894019",
+        "name": "再見亦是淚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023809220274253827/xs0R0L1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13909,
+          "following_count": 476,
+          "like_count": 89499,
+          "listed_count": 13,
+          "media_count": 642,
+          "tweet_count": 2780
+        },
+        "username": "JiaHe888",
+        "verified": false
+      }
+    ]
+  }
+}

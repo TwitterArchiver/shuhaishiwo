@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1841416962846695424",
+    "conversation_id": "1893702756642255038",
+    "created_at": "2025-02-23T17:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T18:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893710098687570158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757832018845708290",
+          "start": 0,
+          "username": "HY_SundiFavor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893710098687570158",
+    "in_reply_to_user_id": "1757832018845708290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893702756642255038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HY_SundiFavor 删人是你的自由，不需要任何人同意，不需要任何理由"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1893702756642255038].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1893702756642255038",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1893702756642255038"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "1893702756642255038",
+        "created_at": "2025-02-23T17:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T18:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893710098687570158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757832018845708290",
+              "start": 0,
+              "username": "HY_SundiFavor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893710098687570158",
+        "in_reply_to_user_id": "1757832018845708290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893702756642255038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HY_SundiFavor 删人是你的自由，不需要任何人同意，不需要任何理由"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "14岁 男 🏳️‍🌈 furry控 文具控 术术人",
+        "id": "1841416962846695424",
+        "name": "树海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893113231197028352/Zk_jSjzQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 93,
+          "like_count": 1930,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 435
+        },
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T18:20:30.000Z",
+        "description": "紧急通知：此账号已在墙内暴露，故锁推一段时间，解锁时间待定■\n请注意安全‼️此人精神不正常‼️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/108125866",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/108125866",
+                "start": 0,
+                "url": "https://t.co/kDjlX17AID"
+              }
+            ]
+          }
+        },
+        "id": "1757832018845708290",
+        "location": "我猜你几乎没听过的银川市🥺",
+        "name": "时锺时钟！",
+        "pinned_tweet_id": "1882031599027671177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848274418218483712/P14KZGo2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 842,
+          "like_count": 2878,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 1972
+        },
+        "url": "https://t.co/kDjlX17AID",
+        "username": "HY_SundiFavor",
+        "verified": false
+      }
+    ]
+  }
+}

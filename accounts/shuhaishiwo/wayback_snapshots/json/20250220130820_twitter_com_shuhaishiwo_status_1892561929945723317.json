@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892080252232531970",
+        "3_1892080275330576384"
+      ],
+      "media_source_tweet_id": [
+        "1892080288894779617",
+        "1892080288894779617"
+      ]
+    },
+    "author_id": "1841416962846695424",
+    "conversation_id": "1892561929945723317",
+    "created_at": "2025-02-20T13:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T14:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892561929945723317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1566815552777383936",
+          "start": 3,
+          "username": "TianqiChen666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hjJhNJMb88",
+          "end": 45,
+          "expanded_url": "https://x.com/TianqiChen666/status/1892080288894779617/photo/1",
+          "media_key": "3_1892080252232531970",
+          "start": 22,
+          "url": "https://t.co/hjJhNJMb88"
+        },
+        {
+          "display_url": "pic.x.com/hjJhNJMb88",
+          "end": 45,
+          "expanded_url": "https://x.com/TianqiChen666/status/1892080288894779617/photo/1",
+          "media_key": "3_1892080275330576384",
+          "start": 22,
+          "url": "https://t.co/hjJhNJMb88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892561929945723317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892080288894779617",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TianqiChen666: 啊这 https://t.co/hjJhNJMb88"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1892080252232531970",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkIE9vjaAAIelk7.jpg",
+        "width": 584
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1892080275330576384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkIE_FmaMAAIiKI.jpg",
+        "width": 770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892080252232531970",
+            "3_1892080275330576384"
+          ],
+          "media_source_tweet_id": [
+            "1892080288894779617",
+            "1892080288894779617"
+          ]
+        },
+        "author_id": "1841416962846695424",
+        "conversation_id": "1892561929945723317",
+        "created_at": "2025-02-20T13:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T14:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892561929945723317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1566815552777383936",
+              "start": 3,
+              "username": "TianqiChen666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hjJhNJMb88",
+              "end": 45,
+              "expanded_url": "https://x.com/TianqiChen666/status/1892080288894779617/photo/1",
+              "media_key": "3_1892080252232531970",
+              "start": 22,
+              "url": "https://t.co/hjJhNJMb88"
+            },
+            {
+              "display_url": "pic.x.com/hjJhNJMb88",
+              "end": 45,
+              "expanded_url": "https://x.com/TianqiChen666/status/1892080288894779617/photo/1",
+              "media_key": "3_1892080275330576384",
+              "start": 22,
+              "url": "https://t.co/hjJhNJMb88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892561929945723317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892080288894779617",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TianqiChen666: 啊这 https://t.co/hjJhNJMb88"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892080252232531970",
+            "3_1892080275330576384"
+          ]
+        },
+        "author_id": "1566815552777383936",
+        "conversation_id": "1892080288894779617",
+        "created_at": "2025-02-19T05:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T06:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892080288894779617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hjJhNJMb88",
+              "end": 26,
+              "expanded_url": "https://x.com/TianqiChen666/status/1892080288894779617/photo/1",
+              "media_key": "3_1892080252232531970",
+              "start": 3,
+              "url": "https://t.co/hjJhNJMb88"
+            },
+            {
+              "display_url": "pic.x.com/hjJhNJMb88",
+              "end": 26,
+              "expanded_url": "https://x.com/TianqiChen666/status/1892080288894779617/photo/1",
+              "media_key": "3_1892080275330576384",
+              "start": 3,
+              "url": "https://t.co/hjJhNJMb88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892080288894779617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 237160,
+          "like_count": 1183,
+          "quote_count": 32,
+          "reply_count": 158,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "啊这 https://t.co/hjJhNJMb88"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "14岁 男 🏳️‍🌈 furry控 文具控 术术人",
+        "id": "1841416962846695424",
+        "name": "树海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891266106133983232/c7JhV35F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 92,
+          "like_count": 1846,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 420
+        },
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T15:48:41.000Z",
+        "description": "大学生、中国人🇨🇳、いま成都に住んでいる。みんなと仲良くしたい！\n|絡み重視|変な垢以外フォロバ💯|アニメ|kig初心者|恋人🥰：@podf14|里：@menma_sub|興味：#原神、#アークナイツ、#ブルアカ、#ボカロ、#着ぐるみ|\n親友:@haku_dabai @2temisinin\n|匿名質問↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 89,
+                "tag": "原神"
+              },
+              {
+                "end": 100,
+                "start": 93,
+                "tag": "アークナイツ"
+              },
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "ブルアカ"
+              },
+              {
+                "end": 111,
+                "start": 107,
+                "tag": "ボカロ"
+              },
+              {
+                "end": 117,
+                "start": 112,
+                "tag": "着ぐるみ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "podf14"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "menma_sub"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "haku_dabai"
+              },
+              {
+                "end": 145,
+                "start": 134,
+                "username": "2temisinin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/TianqiChen6665…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/TianqiChen66655157",
+                "start": 0,
+                "url": "https://t.co/fCSPq9Gws0"
+              }
+            ]
+          }
+        },
+        "id": "1566815552777383936",
+        "location": "Sichuan",
+        "name": "めんま",
+        "pinned_tweet_id": "1858391483382206967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888774893803814912/-hJmwcMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12698,
+          "following_count": 7156,
+          "like_count": 76103,
+          "listed_count": 42,
+          "media_count": 4478,
+          "tweet_count": 14236
+        },
+        "url": "https://t.co/fCSPq9Gws0",
+        "username": "TianqiChen666",
+        "verified": true
+      }
+    ]
+  }
+}

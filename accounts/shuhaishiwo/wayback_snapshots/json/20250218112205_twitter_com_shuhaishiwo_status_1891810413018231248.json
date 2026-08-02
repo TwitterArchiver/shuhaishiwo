@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1891810404718051328",
+        "3_1891810404705370113",
+        "3_1891810404713758720",
+        "3_1891810404764090369"
+      ]
+    },
+    "author_id": "1841416962846695424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1891810413018231248",
+    "created_at": "2025-02-18T11:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T12:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1891810413018231248"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9jUKxjAew2",
+          "end": 40,
+          "expanded_url": "https://x.com/shuhaishiwo/status/1891810413018231248/photo/1",
+          "media_key": "3_1891810404718051328",
+          "start": 17,
+          "url": "https://t.co/9jUKxjAew2"
+        },
+        {
+          "display_url": "pic.x.com/9jUKxjAew2",
+          "end": 40,
+          "expanded_url": "https://x.com/shuhaishiwo/status/1891810413018231248/photo/1",
+          "media_key": "3_1891810404705370113",
+          "start": 17,
+          "url": "https://t.co/9jUKxjAew2"
+        },
+        {
+          "display_url": "pic.x.com/9jUKxjAew2",
+          "end": 40,
+          "expanded_url": "https://x.com/shuhaishiwo/status/1891810413018231248/photo/1",
+          "media_key": "3_1891810404713758720",
+          "start": 17,
+          "url": "https://t.co/9jUKxjAew2"
+        },
+        {
+          "display_url": "pic.x.com/9jUKxjAew2",
+          "end": 40,
+          "expanded_url": "https://x.com/shuhaishiwo/status/1891810413018231248/photo/1",
+          "media_key": "3_1891810404764090369",
+          "start": 17,
+          "url": "https://t.co/9jUKxjAew2"
+        },
+        {
+          "display_url": "x.com/shuhaishiwo/st…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/shuhaishiwo/status/1891557934552797449",
+          "start": 41,
+          "url": "https://t.co/R6WTebNAos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891810413018231248",
+    "lang": "it",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891557934552797449",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ios10与iPhone se1 https://t.co/9jUKxjAew2 https://t.co/R6WTebNAos"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1891810404718051328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkEPijObgAAaKuP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1891810404705370113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkEPijLaAAE_KFt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1891810404713758720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkEPijNaAAAXmUQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1891810404764090369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkEPijZaAAErJui.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891810404718051328",
+            "3_1891810404705370113",
+            "3_1891810404713758720",
+            "3_1891810404764090369"
+          ]
+        },
+        "author_id": "1841416962846695424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1891810413018231248",
+        "created_at": "2025-02-18T11:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T12:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891810413018231248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9jUKxjAew2",
+              "end": 40,
+              "expanded_url": "https://x.com/shuhaishiwo/status/1891810413018231248/photo/1",
+              "media_key": "3_1891810404718051328",
+              "start": 17,
+              "url": "https://t.co/9jUKxjAew2"
+            },
+            {
+              "display_url": "pic.x.com/9jUKxjAew2",
+              "end": 40,
+              "expanded_url": "https://x.com/shuhaishiwo/status/1891810413018231248/photo/1",
+              "media_key": "3_1891810404705370113",
+              "start": 17,
+              "url": "https://t.co/9jUKxjAew2"
+            },
+            {
+              "display_url": "pic.x.com/9jUKxjAew2",
+              "end": 40,
+              "expanded_url": "https://x.com/shuhaishiwo/status/1891810413018231248/photo/1",
+              "media_key": "3_1891810404713758720",
+              "start": 17,
+              "url": "https://t.co/9jUKxjAew2"
+            },
+            {
+              "display_url": "pic.x.com/9jUKxjAew2",
+              "end": 40,
+              "expanded_url": "https://x.com/shuhaishiwo/status/1891810413018231248/photo/1",
+              "media_key": "3_1891810404764090369",
+              "start": 17,
+              "url": "https://t.co/9jUKxjAew2"
+            },
+            {
+              "display_url": "x.com/shuhaishiwo/st…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/shuhaishiwo/status/1891557934552797449",
+              "start": 41,
+              "url": "https://t.co/R6WTebNAos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891810413018231248",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891557934552797449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ios10与iPhone se1 https://t.co/9jUKxjAew2 https://t.co/R6WTebNAos"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "1891557934552797449",
+        "created_at": "2025-02-17T18:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T19:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891557934552797449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891557934552797449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了iPhonese1 64g ios10"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "发癫用的 请加QQ",
+        "id": "1841416962846695424",
+        "name": "树海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891266106133983232/c7JhV35F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 89,
+          "like_count": 1701,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 394
+        },
+        "username": "shuhaishiwo",
+        "verified": false
+      }
+    ]
+  }
+}

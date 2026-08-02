@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1841416962846695424",
+    "conversation_id": "1898778161602768986",
+    "created_at": "2025-03-09T16:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T17:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898778161602768986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1423220645383475200",
+          "start": 3,
+          "username": "sysjf0"
+        },
+        {
+          "end": 28,
+          "id": "1244543552652054528",
+          "start": 12,
+          "username": "Greenfish_insky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898778161602768986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898692567556034957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sysjf0: @Greenfish_insky 和贴吧一样，天天评价这个评价那个，恶心死了，怎么不给自己的马评价一下，爹在外面做事赚钱评价为80分，马在家里做家务，不赚钱评价为12分，一算下来，他爹得了mvp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "1898778161602768986",
+        "created_at": "2025-03-09T16:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T17:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898778161602768986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1423220645383475200",
+              "start": 3,
+              "username": "sysjf0"
+            },
+            {
+              "end": 28,
+              "id": "1244543552652054528",
+              "start": 12,
+              "username": "Greenfish_insky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898778161602768986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898692567556034957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sysjf0: @Greenfish_insky 和贴吧一样，天天评价这个评价那个，恶心死了，怎么不给自己的马评价一下，爹在外面做事赚钱评价为80分，马在家里做家务，不赚钱评价为12分，一算下来，他爹得了mvp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423220645383475200",
+        "conversation_id": "1898688671655882939",
+        "created_at": "2025-03-09T11:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T12:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898692567556034957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Greenfish_insky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898692567556034957",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898688671655882939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greenfish_insky 和贴吧一样，天天评价这个评价那个，恶心死了，怎么不给自己的马评价一下，爹在外面做事赚钱评价为80分，马在家里做家务，不赚钱评价为12分，一算下来，他爹得了mvp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "14岁 男 🏳️‍🌈 furry控 文具控 术术人",
+        "id": "1841416962846695424",
+        "name": "树海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893113231197028352/Zk_jSjzQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 96,
+          "like_count": 1969,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 437
+        },
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T09:53:54.000Z",
+        "description": "键政🚫，最喜欢的推主是 @umichen0502324",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "umichen0502324"
+              }
+            ]
+          }
+        },
+        "id": "1423220645383475200",
+        "location": "1.7km",
+        "name": "十九方鸞齉灥麤齾𰻝",
+        "pinned_tweet_id": "1862539669592031578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897685318586748928/5-v6ctNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 979,
+          "like_count": 12631,
+          "listed_count": 4,
+          "media_count": 1108,
+          "tweet_count": 16791
+        },
+        "username": "sysjf0",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "已有上千年生命的神秘外星鱼 现以温良的凡人身份在地球游历/小号@fishoutworld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "fishoutworld"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "迷你世界",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "1884162950749118567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872220255705333760/XVl2yIEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4350,
+          "following_count": 539,
+          "like_count": 12084,
+          "listed_count": 12,
+          "media_count": 1189,
+          "tweet_count": 11517
+        },
+        "username": "Greenfish_insky",
+        "verified": false
+      }
+    ]
+  }
+}

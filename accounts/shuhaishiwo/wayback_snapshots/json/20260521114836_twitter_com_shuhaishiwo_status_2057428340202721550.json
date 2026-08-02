@@ -1,0 +1,130 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1841416962846695424",
+    "conversation_id": "2057428340202721550",
+    "created_at": "2026-05-21T11:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057428340202721550"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "b23.tv/i5mWWu7",
+          "end": 74,
+          "expanded_url": "https://b23.tv/i5mWWu7",
+          "start": 51,
+          "unwound_url": "https://space.bilibili.com/611669958",
+          "url": "https://t.co/VY5zaYv99d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057428340202721550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天几乎在b站播了一天（用公皮）\n\n没什么人看…\n大家有推荐的直播题材嘛|･ω･｀)\n\n窝的b站账号：https://t.co/VY5zaYv99d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "2057428340202721550",
+        "created_at": "2026-05-21T11:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057428340202721550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "b23.tv/i5mWWu7",
+              "end": 74,
+              "expanded_url": "https://b23.tv/i5mWWu7",
+              "start": 51,
+              "unwound_url": "https://space.bilibili.com/611669958",
+              "url": "https://t.co/VY5zaYv99d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057428340202721550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天几乎在b站播了一天（用公皮）\n\n没什么人看…\n大家有推荐的直播题材嘛|･ω･｀)\n\n窝的b站账号：https://t.co/VY5zaYv99d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "じゅかい｜16岁｜雄性｜喜欢术力口和文具｜科技食品爱好者｜bilibil ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/tDLssGs",
+                "end": 23,
+                "expanded_url": "https://b23.tv/tDLssGs",
+                "start": 0,
+                "url": "https://t.co/5JLMl2shrJ"
+              }
+            ]
+          }
+        },
+        "id": "1841416962846695424",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "1959963772505706722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056711248247672832/EDL0G3zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 161,
+          "like_count": 3614,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 768
+        },
+        "url": "https://t.co/5JLMl2shrJ",
+        "username": "shuhaishiwo",
+        "verified": false
+      }
+    ]
+  }
+}

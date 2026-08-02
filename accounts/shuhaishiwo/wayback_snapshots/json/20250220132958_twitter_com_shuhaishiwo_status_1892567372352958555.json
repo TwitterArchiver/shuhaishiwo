@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1841416962846695424",
+    "conversation_id": "1892567372352958555",
+    "created_at": "2025-02-20T13:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T14:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892567372352958555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1765825463103139840",
+          "start": 3,
+          "username": "BetulaMnc08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892567372352958555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892213329696829677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BetulaMnc08: 感覺所有推u都在台北上海多倫多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "1892567372352958555",
+        "created_at": "2025-02-20T13:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T14:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892567372352958555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1765825463103139840",
+              "start": 3,
+              "username": "BetulaMnc08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892567372352958555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892213329696829677",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BetulaMnc08: 感覺所有推u都在台北上海多倫多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765825463103139840",
+        "conversation_id": "1892213329696829677",
+        "created_at": "2025-02-19T14:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T15:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892213329696829677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892213329696829677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 597,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感覺所有推u都在台北上海多倫多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "14岁 男 🏳️‍🌈 furry控 文具控 术术人",
+        "id": "1841416962846695424",
+        "name": "树海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891266106133983232/c7JhV35F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 93,
+          "like_count": 1874,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 423
+        },
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "白樺/啪轉生 | 不可回收垃圾 | 音樂、神秘學、語言學愛好 | 社交廢物 | 老年人體質 | 超市特價商品購買者 | 疫情期間請佩戴口罩保持兩米社交距離",
+        "id": "1765825463103139840",
+        "location": "大狸貓的肚子裡",
+        "name": "可能是西伯利亞哪個林子裡的白樺",
+        "pinned_tweet_id": "1887770520436736375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890384033475137536/qzDBoug9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 255,
+          "like_count": 5925,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 2305
+        },
+        "username": "BetulaMnc08",
+        "verified": false
+      }
+    ]
+  }
+}

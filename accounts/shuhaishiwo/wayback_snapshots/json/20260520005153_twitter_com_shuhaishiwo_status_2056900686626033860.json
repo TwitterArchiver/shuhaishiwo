@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1841416962846695424",
+    "conversation_id": "2056720551100703213",
+    "created_at": "2026-05-20T00:51:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T01:51:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056900686626033860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2721275622",
+          "start": 0,
+          "username": "__oQuery"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056900686626033860",
+    "in_reply_to_user_id": "2721275622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056720551100703213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__oQuery 紧凑模式就能对齐了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 290,
+        "media_key": "3_2056720376626053121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrwSRsagAEqdTn.jpg",
+        "width": 328
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "2056720551100703213",
+        "created_at": "2026-05-20T00:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T01:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056900686626033860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2721275622",
+              "start": 0,
+              "username": "__oQuery"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056900686626033860",
+        "in_reply_to_user_id": "2721275622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056720551100703213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__oQuery 紧凑模式就能对齐了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056720376626053121"
+          ]
+        },
+        "author_id": "2721275622",
+        "conversation_id": "2056720551100703213",
+        "created_at": "2026-05-19T12:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056720551100703213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KX9dVbmZ7a",
+              "end": 52,
+              "expanded_url": "https://x.com/__oQuery/status/2056720551100703213/photo/1",
+              "media_key": "3_2056720376626053121",
+              "start": 29,
+              "url": "https://t.co/KX9dVbmZ7a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056720551100703213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2907,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天第一次下载 mac QQ，这个左上的信号灯也太丑了。 https://t.co/KX9dVbmZ7a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "じゅかい｜16岁｜雄性｜喜欢术力口和文具｜科技食品爱好者｜老公@sharksovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "sharksovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/tDLssGs",
+                "end": 23,
+                "expanded_url": "https://b23.tv/tDLssGs",
+                "start": 0,
+                "url": "https://t.co/5JLMl2shrJ"
+              }
+            ]
+          }
+        },
+        "id": "1841416962846695424",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "1959963772505706722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056711248247672832/EDL0G3zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 151,
+          "like_count": 3547,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 747
+        },
+        "url": "https://t.co/5JLMl2shrJ",
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-10T10:25:01.000Z",
+        "description": "Orchestrating ideas with Code & AI | All views are my own",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "innei.in",
+                "end": 23,
+                "expanded_url": "https://innei.in",
+                "start": 0,
+                "url": "https://t.co/HHCCtwk4dL"
+              }
+            ]
+          }
+        },
+        "id": "2721275622",
+        "location": " 天上",
+        "name": "拾一.high-fast",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033851740659875840/RuwMsAaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10172,
+          "following_count": 975,
+          "like_count": 12371,
+          "listed_count": 83,
+          "media_count": 1020,
+          "tweet_count": 8731
+        },
+        "url": "https://t.co/HHCCtwk4dL",
+        "username": "__oQuery",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1841416962846695424",
+    "conversation_id": "1892562897353777427",
+    "created_at": "2025-02-20T13:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T14:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892562897353777427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1769408963102265344",
+          "start": 3,
+          "username": "tICDh2g4Rz89685"
+        },
+        {
+          "end": 29,
+          "id": "1433678976564662273",
+          "start": 21,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892562897353777427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892326922614386937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tICDh2g4Rz89685: @hsn8086 年少不得之物 终将困其一生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "1892562897353777427",
+        "created_at": "2025-02-20T13:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T14:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892562897353777427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1769408963102265344",
+              "start": 3,
+              "username": "tICDh2g4Rz89685"
+            },
+            {
+              "end": 29,
+              "id": "1433678976564662273",
+              "start": 21,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892562897353777427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892326922614386937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tICDh2g4Rz89685: @hsn8086 年少不得之物 终将困其一生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769408963102265344",
+        "conversation_id": "1892137405693689895",
+        "created_at": "2025-02-19T21:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T22:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892326922614386937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892326922614386937",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4001,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892137405693689895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 年少不得之物 终将困其一生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "14岁 男 🏳️‍🌈 furry控 文具控 术术人",
+        "id": "1841416962846695424",
+        "name": "树海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891266106133983232/c7JhV35F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 93,
+          "like_count": 1851,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 421
+        },
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T17:03:50.000Z",
+        "description": "还有符 还有这里是必须得写点什么的吗",
+        "id": "1769408963102265344",
+        "name": "符",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769511522492194816/VjbAP1p4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 169,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 40
+        },
+        "username": "tICDh2g4Rz89685",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1846240135534596297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39185,
+          "following_count": 919,
+          "like_count": 36560,
+          "listed_count": 102,
+          "media_count": 6483,
+          "tweet_count": 11662
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

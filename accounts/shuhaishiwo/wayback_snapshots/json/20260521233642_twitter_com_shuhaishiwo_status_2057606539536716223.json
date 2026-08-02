@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1841416962846695424",
+    "conversation_id": "2057606539536716223",
+    "created_at": "2026-05-21T23:36:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T00:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057606539536716223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1976687626381099009",
+          "start": 3,
+          "username": "cloudyun13z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057606539536716223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056945540055921131",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cloudyun13z: 一直想变成低敏感高能量的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "2057606539536716223",
+        "created_at": "2026-05-21T23:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T00:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057606539536716223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1976687626381099009",
+              "start": 3,
+              "username": "cloudyun13z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057606539536716223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056945540055921131",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cloudyun13z: 一直想变成低敏感高能量的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976687626381099009",
+        "conversation_id": "2056945540055921131",
+        "created_at": "2026-05-20T03:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056945540055921131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056945540055921131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1328,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "一直想变成低敏感高能量的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "じゅかい｜树海碎碎念｜16岁｜雄性｜喜欢术力口和文具｜科技食品爱好者｜bilibili偶尔直播↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/tDLssGs",
+                "end": 23,
+                "expanded_url": "https://b23.tv/tDLssGs",
+                "start": 0,
+                "url": "https://t.co/5JLMl2shrJ"
+              }
+            ]
+          }
+        },
+        "id": "1841416962846695424",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "1959963772505706722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056711248247672832/EDL0G3zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 162,
+          "like_count": 3717,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 789
+        },
+        "url": "https://t.co/5JLMl2shrJ",
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-10T16:34:05.000Z",
+        "description": "生活中有比除了做爱更重要的事情要干呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cloudwin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cloudwin",
+                "start": 0,
+                "url": "https://t.co/oJfPZw1RIH"
+              }
+            ]
+          }
+        },
+        "id": "1976687626381099009",
+        "location": "脂包肌大胸帅哥怀里",
+        "name": "想幸福的cloud",
+        "pinned_tweet_id": "2035022300668731435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050913148656570368/ztdTEd-J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2911,
+          "following_count": 714,
+          "like_count": 21584,
+          "listed_count": 6,
+          "media_count": 1113,
+          "tweet_count": 7402
+        },
+        "url": "https://t.co/oJfPZw1RIH",
+        "username": "cloudyun13z",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1841416962846695424",
+    "conversation_id": "2058534555636932754",
+    "created_at": "2026-05-24T14:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T15:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058549082764062792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1884259557758885894",
+          "start": 0,
+          "username": "sharksOVO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/diudiuboy/stat…",
+          "end": 34,
+          "expanded_url": "https://x.com/diudiuboy/status/2056966204464767221?s=46",
+          "start": 11,
+          "url": "https://t.co/2viXaxiAmN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058549082764062792",
+    "in_reply_to_user_id": "1884259557758885894",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056966204464767221",
+        "type": "quoted"
+      },
+      {
+        "id": "2058547034303443099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sharksOVO https://t.co/2viXaxiAmN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "2058534555636932754",
+        "created_at": "2026-05-24T14:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058549082764062792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1884259557758885894",
+              "start": 0,
+              "username": "sharksOVO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/diudiuboy/stat…",
+              "end": 34,
+              "expanded_url": "https://x.com/diudiuboy/status/2056966204464767221?s=46",
+              "start": 11,
+              "url": "https://t.co/2viXaxiAmN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058549082764062792",
+        "in_reply_to_user_id": "1884259557758885894",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056966204464767221",
+            "type": "quoted"
+          },
+          {
+            "id": "2058547034303443099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sharksOVO https://t.co/2viXaxiAmN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724252684897992704",
+        "conversation_id": "2056966204464767221",
+        "created_at": "2026-05-20T05:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056966204464767221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056966204464767221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 17689,
+          "like_count": 342,
+          "quote_count": 4,
+          "reply_count": 10,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "有人说，当一个人向你树立边界时，其实是想方设法的把你留在他的生命里。你们觉得呢？\n我觉得就像下馆子吃饭，告诉服务员忌口是为了继续用餐，而不是离开。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884259557758885894",
+        "conversation_id": "2058534555636932754",
+        "created_at": "2026-05-24T13:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058547034303443099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841416962846695424",
+              "start": 0,
+              "username": "shuhaishiwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058547034303443099",
+        "in_reply_to_user_id": "1841416962846695424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058534555636932754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuhaishiwo 被你赶走了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "じゅかい｜树海碎碎念｜16岁｜雄性｜喜欢术力口和文具｜科技食品爱好者｜坐标包头｜bilibili偶尔直播↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/tDLssGs",
+                "end": 23,
+                "expanded_url": "https://b23.tv/tDLssGs",
+                "start": 0,
+                "url": "https://t.co/5JLMl2shrJ"
+              }
+            ]
+          }
+        },
+        "id": "1841416962846695424",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "1959963772505706722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056711248247672832/EDL0G3zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 173,
+          "like_count": 3867,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 832
+        },
+        "url": "https://t.co/5JLMl2shrJ",
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-28T15:17:50.000Z",
+        "description": "ChineseOK，esay English OK画画苦手。励志成为站在代码顶端的兽xwx",
+        "id": "1884259557758885894",
+        "name": "sharksOVO",
+        "pinned_tweet_id": "2057098125144158643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050807857461993472/HtvveiAS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 154,
+          "like_count": 842,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 457
+        },
+        "username": "sharksOVO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T02:28:00.000Z",
+        "description": "在努力让自己变得更好，更优秀中...",
+        "id": "1724252684897992704",
+        "location": "搬运，盗图，以己度人纯老馋~",
+        "name": "丢丢的日子→绒萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052227269171793920/ydXi8pyq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19959,
+          "following_count": 386,
+          "like_count": 7304,
+          "listed_count": 26,
+          "media_count": 716,
+          "tweet_count": 11073
+        },
+        "username": "diudiuboy",
+        "verified": false
+      }
+    ]
+  }
+}

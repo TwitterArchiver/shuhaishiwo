@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989843045022666753"
+      ]
+    },
+    "author_id": "1841416962846695424",
+    "conversation_id": "1989843051297345719",
+    "created_at": "2025-11-15T23:48:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T00:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989843051297345719"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G1uKm3mODq",
+          "end": 33,
+          "expanded_url": "https://x.com/shuhaishiwo/status/1989843051297345719/photo/1",
+          "media_key": "3_1989843045022666753",
+          "start": 10,
+          "url": "https://t.co/G1uKm3mODq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989843051297345719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好冷，发烧，嗓子疼 https://t.co/G1uKm3mODq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 649,
+        "media_key": "3_1989843045022666753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G51XtPFbkAENb9u.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989843045022666753"
+          ]
+        },
+        "author_id": "1841416962846695424",
+        "conversation_id": "1989843051297345719",
+        "created_at": "2025-11-15T23:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T00:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989843051297345719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G1uKm3mODq",
+              "end": 33,
+              "expanded_url": "https://x.com/shuhaishiwo/status/1989843051297345719/photo/1",
+              "media_key": "3_1989843045022666753",
+              "start": 10,
+              "url": "https://t.co/G1uKm3mODq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989843051297345719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好冷，发烧，嗓子疼 https://t.co/G1uKm3mODq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "窝的遗产",
+        "id": "1841416962846695424",
+        "name": "树海",
+        "pinned_tweet_id": "1959963772505706722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960254430697431040/pT2ylw7e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 166,
+          "like_count": 3284,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 713
+        },
+        "username": "shuhaishiwo",
+        "verified": false
+      }
+    ]
+  }
+}

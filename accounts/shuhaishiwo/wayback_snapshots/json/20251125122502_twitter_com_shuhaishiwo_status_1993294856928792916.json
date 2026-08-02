@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1993294657942593536"
+      ]
+    },
+    "author_id": "1841416962846695424",
+    "conversation_id": "1993294856928792916",
+    "created_at": "2025-11-25T12:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T13:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993294856928792916"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dx7ATtHqjm",
+          "end": 40,
+          "expanded_url": "https://x.com/shuhaishiwo/status/1993294856928792916/video/1",
+          "media_key": "13_1993294657942593536",
+          "start": 17,
+          "url": "https://t.co/Dx7ATtHqjm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993294856928792916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "冲冲...\n（声音关了喵xwx） https://t.co/Dx7ATtHqjm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1993294856928792916].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1993294856928792916",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1993294856928792916"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28986,
+        "height": 720,
+        "media_key": "13_1993294657942593536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1993294657942593536/img/EFhkEY61pDXfbvS3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993294657942593536/vid/avc1/480x270/-_YZIbXN3MRQqOiS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993294657942593536/vid/avc1/640x360/J0juH8O53H_H9kRk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993294657942593536/vid/avc1/1280x720/D5z8OYTl-jv826ZX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1993294657942593536/pl/Xe85UxL3rs5IULHu.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "窝的遗产",
+        "id": "1841416962846695424",
+        "name": "树海",
+        "pinned_tweet_id": "1959963772505706722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960254430697431040/pT2ylw7e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 164,
+          "like_count": 3322,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 717
+        },
+        "username": "shuhaishiwo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995836664514838532"
+      ]
+    },
+    "author_id": "1841416962846695424",
+    "conversation_id": "1995836671875842469",
+    "created_at": "2025-12-02T12:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T13:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995836671875842469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5eeeqHmdub",
+          "end": 33,
+          "expanded_url": "https://x.com/shuhaishiwo/status/1995836671875842469/photo/1",
+          "media_key": "3_1995836664514838532",
+          "start": 10,
+          "url": "https://t.co/5eeeqHmdub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995836671875842469",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没力呢，嗯对xwx https://t.co/5eeeqHmdub"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1995836671875842469].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1995836671875842469",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1995836671875842469"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1995836664514838532",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Ki3zobgAQffAb.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "窝的遗产",
+        "id": "1841416962846695424",
+        "name": "树海",
+        "pinned_tweet_id": "1959963772505706722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995683240624144384/Wu0Iyo1O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 161,
+          "like_count": 3373,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 719
+        },
+        "username": "shuhaishiwo",
+        "verified": false
+      }
+    ]
+  }
+}

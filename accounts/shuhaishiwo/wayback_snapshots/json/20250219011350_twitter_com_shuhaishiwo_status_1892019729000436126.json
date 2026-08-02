@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892019721576513536",
+        "3_1892019721568206848"
+      ]
+    },
+    "author_id": "1841416962846695424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1892019729000436126",
+    "created_at": "2025-02-19T01:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T02:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892019729000436126"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jBj3BJD49m",
+          "end": 53,
+          "expanded_url": "https://x.com/shuhaishiwo/status/1892019729000436126/photo/1",
+          "media_key": "3_1892019721576513536",
+          "start": 30,
+          "url": "https://t.co/jBj3BJD49m"
+        },
+        {
+          "display_url": "pic.x.com/jBj3BJD49m",
+          "end": 53,
+          "expanded_url": "https://x.com/shuhaishiwo/status/1892019729000436126/photo/1",
+          "media_key": "3_1892019721568206848",
+          "start": 30,
+          "url": "https://t.co/jBj3BJD49m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892019729000436126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "bewlybewly美化插件+Chrome网页作为应用安装 https://t.co/jBj3BJD49m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1892019721576513536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkHN6ZSaAAAhzWo.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1892019721568206848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkHN6ZQbQAACdH8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892019721576513536",
+            "3_1892019721568206848"
+          ]
+        },
+        "author_id": "1841416962846695424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1892019729000436126",
+        "created_at": "2025-02-19T01:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T02:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892019729000436126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jBj3BJD49m",
+              "end": 53,
+              "expanded_url": "https://x.com/shuhaishiwo/status/1892019729000436126/photo/1",
+              "media_key": "3_1892019721576513536",
+              "start": 30,
+              "url": "https://t.co/jBj3BJD49m"
+            },
+            {
+              "display_url": "pic.x.com/jBj3BJD49m",
+              "end": 53,
+              "expanded_url": "https://x.com/shuhaishiwo/status/1892019729000436126/photo/1",
+              "media_key": "3_1892019721568206848",
+              "start": 30,
+              "url": "https://t.co/jBj3BJD49m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892019729000436126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bewlybewly美化插件+Chrome网页作为应用安装 https://t.co/jBj3BJD49m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "发癫用的 请加QQ",
+        "id": "1841416962846695424",
+        "name": "树海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891266106133983232/c7JhV35F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 91,
+          "like_count": 1762,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 400
+        },
+        "username": "shuhaishiwo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1841416962846695424",
+    "conversation_id": "1859200056198574555",
+    "created_at": "2024-11-20T12:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T13:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859213227651182630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1535452530624409602",
+          "start": 0,
+          "username": "CuteK1tten_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859213227651182630",
+    "in_reply_to_user_id": "1535452530624409602",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859200056198574555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuteK1tten_ 支黑一般都在中国活不下去了吧🤮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "1859200056198574555",
+        "created_at": "2024-11-20T12:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T13:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859213227651182630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1535452530624409602",
+              "start": 0,
+              "username": "CuteK1tten_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859213227651182630",
+        "in_reply_to_user_id": "1535452530624409602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859200056198574555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuteK1tten_ 支黑一般都在中国活不下去了吧🤮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535452530624409602",
+        "conversation_id": "1859200056198574555",
+        "created_at": "2024-11-20T11:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T12:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859200056198574555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fagainstanimal…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/fagainstanimals/status/1859163652118745132",
+              "start": 23,
+              "url": "https://t.co/UAWSunFd94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859200056198574555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 256,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859163652118745132",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当狗和当蛆哪个更好我们支黑还是能分辨出来的🤗 https://t.co/UAWSunFd94"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "想被摸摸...",
+        "id": "1841416962846695424",
+        "name": "树海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841417441710358528/O_VWUJpo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 75,
+          "like_count": 709,
+          "listed_count": 1,
+          "tweet_count": 185
+        },
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T02:43:14.000Z",
+        "description": "08女高🚪1¥ 只用qq♥️ cs完美金s 能排的可以一起玩儿🥰彩笔和非正常国男勿来",
+        "id": "1535452530624409602",
+        "location": "你心里",
+        "name": "🇯🇵超级小猫🔪🕷️🔪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857732025341587460/WaFTex4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 125,
+          "like_count": 1084,
+          "listed_count": 2,
+          "tweet_count": 1591
+        },
+        "username": "CuteK1tten_",
+        "verified": false
+      }
+    ]
+  }
+}

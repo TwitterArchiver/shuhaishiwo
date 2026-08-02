@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059414867925508096"
+      ]
+    },
+    "author_id": "1841416962846695424",
+    "conversation_id": "2059414874829332974",
+    "created_at": "2026-05-26T23:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T00:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059414874829332974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iAec84oaJt",
+          "end": 28,
+          "expanded_url": "https://x.com/shuhaishiwo/status/2059414874829332974/photo/1",
+          "media_key": "3_2059414867925508096",
+          "start": 5,
+          "url": "https://t.co/iAec84oaJt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059414874829332974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好可爱哇 https://t.co/iAec84oaJt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059414867925508096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSC6T_boAAB3zm.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059414867925508096"
+          ]
+        },
+        "author_id": "1841416962846695424",
+        "conversation_id": "2059414874829332974",
+        "created_at": "2026-05-26T23:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T00:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059414874829332974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iAec84oaJt",
+              "end": 28,
+              "expanded_url": "https://x.com/shuhaishiwo/status/2059414874829332974/photo/1",
+              "media_key": "3_2059414867925508096",
+              "start": 5,
+              "url": "https://t.co/iAec84oaJt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059414874829332974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好可爱哇 https://t.co/iAec84oaJt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "じゅかい｜树海碎碎念｜劣等感を殺しに来て｜16岁｜雄性｜喜欢术力口和文具｜科技食品爱好者｜坐标包头｜bilibili偶尔直播↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/tDLssGs",
+                "end": 23,
+                "expanded_url": "https://b23.tv/tDLssGs",
+                "start": 0,
+                "url": "https://t.co/5JLMl2shrJ"
+              }
+            ]
+          }
+        },
+        "id": "1841416962846695424",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "1959963772505706722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056711248247672832/EDL0G3zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 177,
+          "like_count": 3982,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 856
+        },
+        "url": "https://t.co/5JLMl2shrJ",
+        "username": "shuhaishiwo",
+        "verified": false
+      }
+    ]
+  }
+}

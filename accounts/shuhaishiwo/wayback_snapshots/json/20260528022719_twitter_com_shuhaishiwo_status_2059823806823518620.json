@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040429306720272384"
+      ],
+      "media_source_tweet_id": [
+        "2059545139870404631"
+      ]
+    },
+    "author_id": "1841416962846695424",
+    "conversation_id": "2059823806823518620",
+    "created_at": "2026-05-28T02:27:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T03:27:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059823806823518620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1764629344494960640",
+          "start": 3,
+          "username": "guruminn_M"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rIQu8Ii4HA",
+          "end": 45,
+          "expanded_url": "https://x.com/guruminn_M/status/2059545139870404631/photo/1",
+          "media_key": "3_2040429306720272384",
+          "start": 22,
+          "url": "https://t.co/rIQu8Ii4HA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059823806823518620",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059545139870404631",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @guruminn_M: 愛をあげる https://t.co/rIQu8Ii4HA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 772,
+        "media_key": "3_2040429306720272384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFEPpNBbwAAMxyf.png",
+        "width": 779
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040429306720272384"
+          ],
+          "media_source_tweet_id": [
+            "2059545139870404631"
+          ]
+        },
+        "author_id": "1841416962846695424",
+        "conversation_id": "2059823806823518620",
+        "created_at": "2026-05-28T02:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T03:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059823806823518620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1764629344494960640",
+              "start": 3,
+              "username": "guruminn_M"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rIQu8Ii4HA",
+              "end": 45,
+              "expanded_url": "https://x.com/guruminn_M/status/2059545139870404631/photo/1",
+              "media_key": "3_2040429306720272384",
+              "start": 22,
+              "url": "https://t.co/rIQu8Ii4HA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059823806823518620",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059545139870404631",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @guruminn_M: 愛をあげる https://t.co/rIQu8Ii4HA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040429306720272384"
+          ]
+        },
+        "author_id": "1764629344494960640",
+        "conversation_id": "2059545139870404631",
+        "created_at": "2026-05-27T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059545139870404631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rIQu8Ii4HA",
+              "end": 29,
+              "expanded_url": "https://x.com/guruminn_M/status/2059545139870404631/photo/1",
+              "media_key": "3_2040429306720272384",
+              "start": 6,
+              "url": "https://t.co/rIQu8Ii4HA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059545139870404631",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 6600,
+          "like_count": 859,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "reply_settings": "following",
+        "text": "愛をあげる https://t.co/rIQu8Ii4HA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "じゅかい｜树海碎碎念｜劣等感を殺しに来て｜16岁｜雄性｜喜欢术力口和文具｜科技食品爱好者｜坐标包头｜bilibili偶尔直播↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/tDLssGs",
+                "end": 23,
+                "expanded_url": "https://b23.tv/tDLssGs",
+                "start": 0,
+                "url": "https://t.co/5JLMl2shrJ"
+              }
+            ]
+          }
+        },
+        "id": "1841416962846695424",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "1959963772505706722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056711248247672832/EDL0G3zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 179,
+          "like_count": 4028,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 865
+        },
+        "url": "https://t.co/5JLMl2shrJ",
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T12:30:04.000Z",
+        "description": "いま▶︎gnsn 3L夢雑食 高卒済20↑✒️Freelance Illustrator🖌️🐰創作うさぎ少年/少女 #ぐる民 🎨https://t.co/4RbxoX9jyU | https://t.co/0fnnLYXlH9 OConly 禁無断転載・無断使用 Don't re-upload.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 58,
+                "tag": "ぐる民"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@guruminn",
+                "end": 87,
+                "expanded_url": "https://skeb.jp/@guruminn",
+                "start": 64,
+                "url": "https://t.co/4RbxoX9jyU"
+              },
+              {
+                "display_url": "skeb.jp/@guruminnSuB",
+                "end": 113,
+                "expanded_url": "https://skeb.jp/@guruminnSuB",
+                "start": 90,
+                "url": "https://t.co/0fnnLYXlH9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/guruminn",
+                "end": 23,
+                "expanded_url": "https://potofu.me/guruminn",
+                "start": 0,
+                "url": "https://t.co/kcTUHDqqXP"
+              }
+            ]
+          }
+        },
+        "id": "1764629344494960640",
+        "location": "リンク集▹",
+        "name": "縫乃ぐるみん",
+        "pinned_tweet_id": "2058168820125020571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815713062525231104/TqhGoSW5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26476,
+          "following_count": 188,
+          "like_count": 6275,
+          "listed_count": 85,
+          "media_count": 1390,
+          "tweet_count": 3767
+        },
+        "url": "https://t.co/kcTUHDqqXP",
+        "username": "guruminn_M",
+        "verified": false
+      }
+    ]
+  }
+}

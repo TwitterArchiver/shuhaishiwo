@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1841416962846695424",
+    "conversation_id": "1892581145990123672",
+    "created_at": "2025-02-21T01:23:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T02:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892746938606329917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1738538370857607168",
+          "start": 0,
+          "username": "RE13145821"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892746938606329917",
+    "in_reply_to_user_id": "1738538370857607168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892581145990123672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RE13145821 对于在乎你的人来说，只有你是大米粥，这点是最重要的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "1892581145990123672",
+        "created_at": "2025-02-21T01:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T02:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892746938606329917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1738538370857607168",
+              "start": 0,
+              "username": "RE13145821"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892746938606329917",
+        "in_reply_to_user_id": "1738538370857607168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892581145990123672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RE13145821 对于在乎你的人来说，只有你是大米粥，这点是最重要的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738538370857607168",
+        "conversation_id": "1892581145990123672",
+        "created_at": "2025-02-20T14:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T15:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892581145990123672"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892581145990123672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊啊为什么总感觉推特上的同龄人个个都比我有实力啊QAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "14岁 男 🏳️‍🌈 furry控 文具控 术术人",
+        "id": "1841416962846695424",
+        "name": "树海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891266106133983232/c7JhV35F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 93,
+          "like_count": 1881,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 424
+        },
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T12:33:52.000Z",
+        "description": "叫我大米粥就好     树海@huajuanshiwo\n        时锺@HY_SundiFavor              \n\n一碗平平无奇的大米粥/男/09年/取向男/初三牲/轻微社恐/十几岁来着？/TDM控+Furry控/偶尔发癫/欢迎互fo喵/❌坚决不参与任何有关政治的讨论❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "huajuanshiwo"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "HY_SundiFavor"
+              }
+            ]
+          }
+        },
+        "id": "1738538370857607168",
+        "location": "快来fo窝！！！",
+        "name": "大米粥RE（作业好多喵）",
+        "pinned_tweet_id": "1881874644862664711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885214811946139648/OkI6N3Cw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 281,
+          "like_count": 1441,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 520
+        },
+        "username": "RE13145821",
+        "verified": false
+      }
+    ]
+  }
+}

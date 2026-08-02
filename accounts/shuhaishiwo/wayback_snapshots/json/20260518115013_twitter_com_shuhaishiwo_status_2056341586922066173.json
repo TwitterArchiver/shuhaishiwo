@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056341541988286464"
+      ]
+    },
+    "author_id": "1841416962846695424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056341586922066173",
+    "created_at": "2026-05-18T11:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T12:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056341586922066173"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3fzpaL9Bc0",
+          "end": 34,
+          "expanded_url": "https://x.com/shuhaishiwo/status/2056341586922066173/photo/1",
+          "media_key": "3_2056341541988286464",
+          "start": 11,
+          "url": "https://t.co/3fzpaL9Bc0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056341586922066173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买了一个米家的床头灯 https://t.co/3fzpaL9Bc0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2056341541988286464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImXvMsXQAAYqyZ.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056341541988286464"
+          ]
+        },
+        "author_id": "1841416962846695424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056341586922066173",
+        "created_at": "2026-05-18T11:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056341586922066173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3fzpaL9Bc0",
+              "end": 34,
+              "expanded_url": "https://x.com/shuhaishiwo/status/2056341586922066173/photo/1",
+              "media_key": "3_2056341541988286464",
+              "start": 11,
+              "url": "https://t.co/3fzpaL9Bc0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056341586922066173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了一个米家的床头灯 https://t.co/3fzpaL9Bc0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "这里会有一些不想在表推发的内容，请不要外传，谢谢",
+        "id": "1841416962846695424",
+        "name": "树海",
+        "pinned_tweet_id": "1959963772505706722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995683240624144384/Wu0Iyo1O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 152,
+          "like_count": 3508,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 740
+        },
+        "username": "shuhaishiwo",
+        "verified": false
+      }
+    ]
+  }
+}

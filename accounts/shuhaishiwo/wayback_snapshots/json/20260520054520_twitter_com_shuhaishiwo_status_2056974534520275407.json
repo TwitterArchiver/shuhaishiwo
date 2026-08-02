@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1841416962846695424",
+    "conversation_id": "2056952188422009171",
+    "created_at": "2026-05-20T05:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T06:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056974534520275407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1420377473901072390",
+          "start": 0,
+          "username": "Timfurry233"
+        },
+        {
+          "end": 25,
+          "id": "2005927006303838210",
+          "start": 13,
+          "username": "Mr_ginger79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056974534520275407",
+    "in_reply_to_user_id": "1420377473901072390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056969971440460243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Timfurry233 @Mr_ginger79 马叔叔太狠了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "2056952188422009171",
+        "created_at": "2026-05-20T05:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056974534520275407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420377473901072390",
+              "start": 0,
+              "username": "Timfurry233"
+            },
+            {
+              "end": 25,
+              "id": "2005927006303838210",
+              "start": 13,
+              "username": "Mr_ginger79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056974534520275407",
+        "in_reply_to_user_id": "1420377473901072390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056969971440460243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Timfurry233 @Mr_ginger79 马叔叔太狠了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420377473901072390",
+        "conversation_id": "2056952188422009171",
+        "created_at": "2026-05-20T05:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056969971440460243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2005927006303838210",
+              "start": 0,
+              "username": "Mr_ginger79"
+            },
+            {
+              "end": 25,
+              "id": "1841416962846695424",
+              "start": 13,
+              "username": "shuhaishiwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056969971440460243",
+        "in_reply_to_user_id": "2005927006303838210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056969369150701729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mr_ginger79 @shuhaishiwo 对于内容创作者而言，你蓝标过期后X会对你的账号进行“惩罚”，你的流量将会在蓝标过期前断崖式下跌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "じゅかい｜16岁｜雄性｜喜欢术力口和文具｜科技食品爱好者｜老公@sharksovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "sharksovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/tDLssGs",
+                "end": 23,
+                "expanded_url": "https://b23.tv/tDLssGs",
+                "start": 0,
+                "url": "https://t.co/5JLMl2shrJ"
+              }
+            ]
+          }
+        },
+        "id": "1841416962846695424",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "1959963772505706722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056711248247672832/EDL0G3zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 155,
+          "like_count": 3566,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 756
+        },
+        "url": "https://t.co/5JLMl2shrJ",
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-28T13:36:23.000Z",
+        "description": "wikifur维基兽！/立志成为编程兽/咱是一只furry哦！⚠️偶尔会有🔞内容啦( ˃̶̤́ ꒳ ˂̶̤̀ )，懂一点点前端代码啦，但还很生疏💻中文⭕️English⭕️/日本语❌机翻telegram: https://t.co/5gGVDFMyMd blog: https://t.co/sjwsjkHAB1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/im_furry_Data",
+                "end": 126,
+                "expanded_url": "http://t.me/im_furry_Data",
+                "start": 103,
+                "url": "https://t.co/5gGVDFMyMd"
+              },
+              {
+                "display_url": "furries.fun",
+                "end": 156,
+                "expanded_url": "https://furries.fun",
+                "start": 133,
+                "url": "https://t.co/sjwsjkHAB1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "furries.fun",
+                "end": 23,
+                "expanded_url": "https://furries.fun",
+                "start": 0,
+                "url": "https://t.co/sjwsjkHAB1"
+              }
+            ]
+          }
+        },
+        "id": "1420377473901072390",
+        "location": "毛毛之家: furryhome.cn",
+        "name": "xiaohuangbo🔜绒爪兽聚FURPAW",
+        "pinned_tweet_id": "1998775629785813199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957346714417037312/nxpCXagl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5276,
+          "following_count": 3770,
+          "like_count": 45122,
+          "listed_count": 21,
+          "media_count": 710,
+          "tweet_count": 4171
+        },
+        "url": "https://t.co/sjwsjkHAB1",
+        "username": "Timfurry233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-30T09:00:57.000Z",
+        "description": "Mechanical Engineer 🛠️ | Exploring Vibe Coding 🌊 | Curious Mind\n | Reshaping Self 🌱 | Documenting My Learning Curve 🚀",
+        "id": "2005927006303838210",
+        "name": "麦子Miles🌱",
+        "pinned_tweet_id": "2029192445980746223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019765991811473408/AHOq7H9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 369,
+          "like_count": 9424,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1231
+        },
+        "username": "Mr_ginger79",
+        "verified": false
+      }
+    ]
+  }
+}

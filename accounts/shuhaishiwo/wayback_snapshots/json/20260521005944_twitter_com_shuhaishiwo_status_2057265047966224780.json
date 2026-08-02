@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1841416962846695424",
+    "conversation_id": "2057265047966224780",
+    "created_at": "2026-05-21T00:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T01:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057265047966224780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1724252684897992704",
+          "start": 3,
+          "username": "diudiuboy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057265047966224780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056966204464767221",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @diudiuboy: 有人说，当一个人向你树立边界时，其实是想方设法的把你留在他的生命里。你们觉得呢？\n我觉得就像下馆子吃饭，告诉服务员忌口是为了继续用餐，而不是离开。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841416962846695424",
+        "conversation_id": "2057265047966224780",
+        "created_at": "2026-05-21T00:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T01:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057265047966224780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1724252684897992704",
+              "start": 3,
+              "username": "diudiuboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057265047966224780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056966204464767221",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @diudiuboy: 有人说，当一个人向你树立边界时，其实是想方设法的把你留在他的生命里。你们觉得呢？\n我觉得就像下馆子吃饭，告诉服务员忌口是为了继续用餐，而不是离开。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724252684897992704",
+        "conversation_id": "2056966204464767221",
+        "created_at": "2026-05-20T05:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056966204464767221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056966204464767221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 7645,
+          "like_count": 161,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "有人说，当一个人向你树立边界时，其实是想方设法的把你留在他的生命里。你们觉得呢？\n我觉得就像下馆子吃饭，告诉服务员忌口是为了继续用餐，而不是离开。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-02T09:56:48.000Z",
+        "description": "じゅかい｜16岁｜雄性｜喜欢术力口和文具｜科技食品爱好者｜bilibil ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/tDLssGs",
+                "end": 23,
+                "expanded_url": "https://b23.tv/tDLssGs",
+                "start": 0,
+                "url": "https://t.co/5JLMl2shrJ"
+              }
+            ]
+          }
+        },
+        "id": "1841416962846695424",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "1959963772505706722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056711248247672832/EDL0G3zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 161,
+          "like_count": 3604,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 763
+        },
+        "url": "https://t.co/5JLMl2shrJ",
+        "username": "shuhaishiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T02:28:00.000Z",
+        "description": "努力让自己变得更好更优秀中...",
+        "id": "1724252684897992704",
+        "location": "搬运，盗图，以己度人纯老馋~",
+        "name": "丢丢的日子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052227269171793920/ydXi8pyq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19906,
+          "following_count": 386,
+          "like_count": 7292,
+          "listed_count": 26,
+          "media_count": 715,
+          "tweet_count": 11072
+        },
+        "username": "diudiuboy",
+        "verified": false
+      }
+    ]
+  }
+}
