@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T00:17:48",
+  "last_updated": "2026-08-02T00:18:11",
   "html": {
     "https://web.archive.org/web/20250216233429if_/https://twitter.com/shuhaishiwo/status/1891269954403447251": {
       "status": "done",
@@ -1795,18 +1795,18 @@
       "referenced_by": [
         "20250219001454_twitter_com_shuhaishiwo_status_1892004897962316016.json"
       ],
-      "last_updated": "2026-08-02T00:14:37",
+      "last_updated": "2026-08-02T00:18:08",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250219001454/https://video.twimg.com/amplify_video/1891820635053228032/vid/avc1/884x568/eWqFmqWw_wpMIvaU.mp4?tag=14",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/1993294657942593536/vid/avc1/1280x720/D5z8OYTl-jv826ZX.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20251125122502_twitter_com_shuhaishiwo_status_1993294856928792916.json"
       ],
-      "last_updated": "2026-08-02T00:14:37",
+      "last_updated": "2026-08-02T00:18:11",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251125122502/https://video.twimg.com/amplify_video/1993294657942593536/vid/avc1/1280x720/D5z8OYTl-jv826ZX.mp4",
-      "miss_count": 2
+      "miss_count": 3
     }
   },
   "avatars": {
